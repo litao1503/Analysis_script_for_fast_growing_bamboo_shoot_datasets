@@ -6,14 +6,19 @@ Moso bamboo, one of the fastest-growing plants on the planet, is an ideal model 
 
 We proposed model for the interaction among DNA/RNA methylation, PAL, AS, full-length transcript rates, and 3′ UTR length associated with fast growth in bamboo shoots. AS, alternative splicing; 3′ UTR, 3′ untranslated region.
 
-<img src="./images/proposed_model.jpeg" width="55%" align="center" />
+<p align="center" width="100%">
+<img src="./images/proposed_model.jpeg" width="55%" >
+</p>
 
 ## Requirements and Create Python environment
 [![nootebook 6.4.3](https://img.shields.io/badge/nootebook-6.4.3-D2B48C)](https://jupyter.org/) [![numpy 1.20.3](https://img.shields.io/badge/numpy-1.20.3-green)](https://pypi.org/project/numpy/) [![pandas 1.3.2](https://img.shields.io/badge/pandas-1.3.2-yellowgreen)](https://pypi.org/project/pandas/) [![matplotlib 3.4.2](https://img.shields.io/badge/matplotlib-3.4.2-yellow)](https://pypi.org/project/matplotlib/) [![seaborn 0.11.1](https://img.shields.io/badge/seaborn-0.11.1-orange)](https://pypi.org/project/seaborn/) [![sklearn 0.23.2](https://img.shields.io/badge/sklearn-0.23.2-red)](https://pypi.org/project/scikit-learn/) [![scipy 1.7.1](https://img.shields.io/badge/scipy-1.7.1-blueviolet)](https://pypi.org/project/scipy/) [![pysam 0.16.0.1](https://img.shields.io/badge/pysam-0.16.0.1-blue)](https://pypi.org/project/pysam/) [![joblib 1.0.1](https://img.shields.io/badge/joblib-1.0.1-9cf)](https://pypi.org/project/joblib/) [![tqdm 4.62.2](https://img.shields.io/badge/tqdm-4.62.2-lightgrey)](https://pypi.org/project/tqdm/) [![venn 0.1.3](https://img.shields.io/badge/venn-0.1.3-8FBC8F)](https://pypi.org/project/venn/) [![upsetplot 0.6.0](https://img.shields.io/badge/upsetplot-0.6.0-3CB371)](https://pypi.org/project/upsetplot/)
 
 This repository is for the scripts and pipeline for analysing the Nanopore DRS, PacBio Iso-Seq, WGBS and RNA-seq for the fast growth bamboo shoot. It mainly contains jupyter notebook, python script, shell script and some intermediate files.
 
+<p align="center" width="100%">
 <img src="./images/pipeline.png" width="65%" align="center" />
+</p>
+
 
 ### Create and activate conda environment
 
